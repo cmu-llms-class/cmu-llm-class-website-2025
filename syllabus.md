@@ -14,7 +14,7 @@ permalink: /syllabus/
 ## Course Description
 
 Large Language Models Methods and Applications (11-667) is a graduate-level course that aims to provide a holistic view of the current state of large language models (LLMs).
-The first half of this course starts with the basic of language models, including network architectures, training, inference, and evaluation.
+The first half of this course starts with the basics of language models, including network architectures, training, inference, and evaluation.
 Then it discusses the interpretation (or attempts of), alignments, and emergent capabilities of LLMs, followed by its popular applications in language tasks and new utilizations beyond texts.
 In the second half, this course first presents the techniques of scaling up language model pretraining and recent approaches in making the pretraining of LLMs and their deployment more efficient.
 It then discusses various concerns surrounding the deployment of LLMs and wraps up with the challenges and frontiers of recent developments.
