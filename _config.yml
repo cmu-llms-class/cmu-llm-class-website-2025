@@ -1,6 +1,6 @@
 # Site settings
 course_name: "Large Language Models: Methods and Applications"
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "Large Language Models Methods and Applications (11-667) is a graduate-level course that aims to provide a holistic view of the current state of large language models."
 course_semester: "Fall 2025"
 
 baseurl: "/cmu-llm-class-website-2025" # the subpath of your site, e.g. /blog/
