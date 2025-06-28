@@ -59,10 +59,12 @@ These may be activities such as discussing a topic from the class with those sit
 
 ## Grading
 
-* 60%: Homeworks
-    * Each homework is worth 10% of your grade.
+* 40%: Homeworks
+    * Each of the five homeworks is worth 8% of your grade.
+* 20%: Mini-project
+    * Presented in class during one of the last lectures.
 * 20%: Midterm exam
-    * Date: TBD (in class)
+    * Date: 10/21/2025 (in class)
 * 20%: Final exam
     * Date TBD (in class)
 
@@ -72,7 +74,7 @@ Each student has six free late days to use across the six homeworks.
 If you are out of late days, then you will not be able to get credit for subsequent late homeworks. 
 One “day” is defined as anytime between 1 second and 24 hours after the homework deadline.
 The intent of the late day policy is to allow you to take extra time due to unforseen circumstances such as illnesses.
-To use your late days on a homework, you **MUST** fill out [this form](https://forms.gle/ewSLhaZTQdezeKsz7).
+To use your late days on a homework, you **MUST** fill out [this form](https://forms.gle/).
 
 In the event of a medical emergency, please make your personal health, physical and mental, your first priority.
 Seek help from medical and care providers such as University Health Services.
