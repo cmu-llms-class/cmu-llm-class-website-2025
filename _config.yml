@@ -3,8 +3,8 @@ course_name: "Large Language Models: Methods and Applications"
 course_description: "Large Language Models Methods and Applications (11-667) is a graduate-level course that aims to provide a holistic view of the current state of large language models."
 course_semester: "Fall 2025"
 
-baseurl: "/cmu-llm-class-website-2025" # the subpath of your site, e.g. /blog/
-url: "http://cmu-llms-class.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cmu-llms.org" # the base hostname & protocol for your site
 
 schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.lti.cs.cmu.edu/"
