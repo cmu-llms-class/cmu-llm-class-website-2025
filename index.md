@@ -11,8 +11,8 @@ title: Home
 
 ### Office Hours
 
-* **Jaromir**: TBD
-* **Yubin**: TBD
+* **Jaromir**: Tue 3:40 PM - 5:00 PM @ GHC 7225
+* **Yubin**: Thu 3:40 PM - 5:00 PM @ GHC 7225
 * **TAs**: TBD
 
 ## Contacting the Instructors
