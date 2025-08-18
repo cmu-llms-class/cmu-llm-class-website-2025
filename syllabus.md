@@ -79,7 +79,7 @@ Each student has six free late days to use across the six homeworks.
 If you are out of late days, then you will not be able to get credit for subsequent late homeworks. 
 One “day” is defined as anytime between 1 second and 24 hours after the homework deadline.
 The intent of the late day policy is to allow you to take extra time due to unforseen circumstances such as illnesses.
-To use your late days on a homework, you **MUST** fill out [this form](https://forms.gle/).
+To use your late days on a homework, you **MUST** fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdcSQZJPLqxxfNVtj90ui8FJF6flG2PzwKg4n8bIQupUQVbyQ/viewform?usp=header).
 
 In the event of a medical emergency, please make your personal health, physical and mental, your first priority.
 Seek help from medical and care providers such as University Health Services.
