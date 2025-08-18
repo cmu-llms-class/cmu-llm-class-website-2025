@@ -60,13 +60,18 @@ These may be activities such as discussing a topic from the class with those sit
 ## Grading
 
 * 40%: Homeworks
-    * Each of the five homeworks is worth 8% of your grade.
+    * Assignment 0: 1%
+    * Assignemnt 1: 9%
+    * Assignemnt 2: 10%
+    * Assignment 3: 10%
+    * Assignment 4: 10%
 * 20%: Mini-project
     * Presented in class during one of the last lectures.
 * 20%: Midterm exam
     * Date: 10/21/2025 (in class)
 * 20%: Final exam
     * Date TBD (in class)
+* Up to 3% bonus can be awarded for active participation
 
 ## Late Policy
 
