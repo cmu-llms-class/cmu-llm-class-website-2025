@@ -33,7 +33,7 @@ Students who successfully complete this course will be able to:
 * Observe how decisions made during pre-training affect suitability for downstream tasks.
 * Explain the common terms used in academic papers on LLMs (e.g., alignment, scaling laws, RLHF, prompt engineering, instruction tuning).
 * Read and comprehend recent, academic papers on LLMs.
-* Design new methodologies to leverage existing large scale language models in novel ways.
+* Design new approaches to leverage existing large scale language models in novel ways.
 
 
 ## Prerequisites
