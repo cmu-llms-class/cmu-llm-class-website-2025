@@ -61,8 +61,8 @@ These may be activities such as discussing a topic from the class with those sit
 
 * 40%: Homeworks
     * Assignment 0: 1%
-    * Assignemnt 1: 9%
-    * Assignemnt 2: 10%
+    * Assignment 1: 9%
+    * Assignment 2: 10%
     * Assignment 3: 10%
     * Assignment 4: 10%
 * 20%: Mini-project
