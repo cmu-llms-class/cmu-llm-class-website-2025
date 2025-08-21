@@ -13,7 +13,7 @@ title: Home
 
 * **Jaromir**: Tue 3:45 PM - 4:30 PM @ GHC 7225
 * **Yubin**: Thu 3:45 PM - 4:30 PM @ GHC 7225
-* **TAs**: TBD
+* **TAs**: [11-667 Office Hours Google Calendar](https://calendar.google.com/calendar/embed?src=c_ed5c37618eae41c135dc7a58a12f2a2053c79876bfa7c9b89864b34c669dcf16%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ## Contacting the Instructors
 
