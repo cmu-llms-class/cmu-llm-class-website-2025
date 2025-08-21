@@ -75,7 +75,7 @@ These may be activities such as discussing a topic from the class with those sit
 
 ## Late Policy
 
-Each student has six free late days to use across the six homeworks.
+Each student has 4 free late days to use across the 4 homeworks.
 If you are out of late days, then you will not be able to get credit for subsequent late homeworks. 
 One “day” is defined as anytime between 1 second and 24 hours after the homework deadline.
 The intent of the late day policy is to allow you to take extra time due to unforseen circumstances such as illnesses.
@@ -84,7 +84,7 @@ To use your late days on a homework, you **MUST** fill out [this form](https://d
 In the event of a medical emergency, please make your personal health, physical and mental, your first priority.
 Seek help from medical and care providers such as University Health Services.
 Students can request medical extensions afterwards with proof/note from providers.
-These will not count toward your six days.
+These will not count toward your 4 days.
 For other emmergencies and absences, students can request extensions with corresponding documentation on a case-by-case basis with instructors.
 
 
