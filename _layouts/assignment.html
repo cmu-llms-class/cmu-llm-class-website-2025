@@ -18,11 +18,11 @@ title: page.title
         {% if page.pdf %}
         [<a href="{{ page.pdf | prepend: site.baseurl }}">problems</a>]
         {% endif %}
-        {% if page.attachment %}
-        [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
+        {% if page.starter_code %}
+        [<a href="{{ page.starter_code | prepend: site.baseurl }}">starter code</a>]
         {% endif %}
-        {% if page.solutions %}
-        [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
+        {% if page.submission_template %}
+        [<a href="{{ page.submission_template | prepend: site.baseurl }}">report template</a>]
         {% endif %}
       </p>
     {% endif %}
